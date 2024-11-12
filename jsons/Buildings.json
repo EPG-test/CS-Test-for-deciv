@@ -1,4 +1,17 @@
 [
+	
+	
+		{
+		"name": "Atomic Diners",
+		"food": 2,
+		"specialistSlots": {"Merchant": 1},
+		"cost": 0,
+		"requiredTech": "Trade",
+		"uniques": ["[+1 Gold] from [Food source] tiles [in this city]",
+			"Provides [1] [Soft Drinks]",
+			"Only available <with [Aport production res]>",
+			"Never destroyed when the city is captured"]
+	},
 	//Adjusted from DeCiv Redux
 	{
 		"name": "Archive of the Arts",
