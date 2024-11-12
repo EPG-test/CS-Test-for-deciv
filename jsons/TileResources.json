@@ -14,5 +14,10 @@
 	{
 		"name": "Newspaper",
 		"resourceType": "Luxury"
-	}
+	},
+	{
+		"name": "Atomic Diner rea",
+ 		"resourceType": "Bonus"
+
+	},
 ]
